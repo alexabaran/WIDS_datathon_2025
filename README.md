@@ -33,7 +33,4 @@ The goal is to build a model to predict both an individual’s sex and their ADH
 
 ## 📁 Project Structure
 
-
-<pre> ```text 
-ADHD-Female-Brain-Detection/ │ ├── data/ │ ├── raw/ # original data files │ ├── processed/ # cleaned/ready-for-modeling data │ ├── notebooks/ │ ├── 01_eda.ipynb # exploratory data analysis │ ├── 02_preprocessing.ipynb# feature engineering / cleaning │ ├── 03_modeling.ipynb # baseline + better models │ ├── 04_evaluation.ipynb # final model evaluation │ ├── reports/ │ ├── data_description.md # dataset + feature explanation │ ├── model_notes.md # decisions made about models │ ├── figures/ # visualizations │ ├── src/ # reusable scripts │ ├── data_cleaning.py │ ├── modeling_utils.py │ ├── README.md └── requirements.txt 
-``` </pre>
+<pre><code>``` ADHD-Female-Brain-Detection/ │ ├── data/ │ ├── raw/ # original data files │ ├── processed/ # cleaned/ready-for-modeling data │ ├── notebooks/ │ ├── 01_eda.ipynb # exploratory data analysis │ ├── 02_preprocessing.ipynb# feature engineering / cleaning │ ├── 03_modeling.ipynb # baseline + better models │ ├── 04_evaluation.ipynb # final model evaluation │ ├── reports/ │ ├── data_description.md # dataset + feature explanation │ ├── model_notes.md # decisions made about models │ ├── figures/ # visualizations │ ├── src/ # reusable scripts │ ├── data_cleaning.py │ ├── modeling_utils.py │ ├── README.md └── requirements.txt ```</code></pre>
