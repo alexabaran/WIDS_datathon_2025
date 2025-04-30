@@ -1,4 +1,4 @@
-A summary of the whole project:
+## A summary of the whole project:
 
 What the problem is
 What data is used
@@ -6,7 +6,7 @@ What methods were tried
 How well it performs
 How to reproduce results
 
-What the question asks:
+### What the question asks:
 
 - Brain activity patterns associated with ADHD.
 
@@ -16,7 +16,7 @@ What the question asks:
 
 
 
-Understanding the Core of the Task:
+### Understanding the Core of the Task:
 
 The challenge is to find brain activity patterns that are associated with ADHD and sex differences. 
 
