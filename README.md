@@ -1,4 +1,4 @@
-## A summary of the whole project:
+# ADHD Brain Activity Patterns - project summary:
 
 What the problem is
 What data is used
@@ -25,7 +25,7 @@ The MRI (functional brain imaging) data is central to this task, and the goal is
 
 ### Challenge Question and Task:
 
-### ❓ *“What brain activity patterns are associated with ADHD; are they different between males and females, and, if so, how?”* ❓
+### *“What brain activity patterns are associated with ADHD; are they different between males and females, and, if so, how?”*
 
 The goal is to build a model to predict both an individual’s sex and their ADHD diagnosis using functional brain imaging data of children and adolescents and their socio-demographic, emotions, and parenting information.
 
