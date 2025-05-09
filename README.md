@@ -36,9 +36,6 @@ The goal is to build a model to predict both an individual’s sex and their ADH
 ```
 ADHD-Female-Brain-Detection/
 │
-├── data/
-│   ├── raw/                  # original data files
-│   ├── processed/            # cleaned/ready-for-modeling data
 │
 ├── notebooks/
 │   ├── 01_eda.ipynb          # exploratory data analysis
