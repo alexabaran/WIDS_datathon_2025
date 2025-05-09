@@ -1,10 +1,5 @@
-# ADHD Brain Activity Patterns - project summary:
+# ADHD Brain Activity Patterns:
 
-What the problem is
-What data is used
-What methods were tried
-How well it performs
-How to reproduce results
 
 ### What the question asks:
 
