@@ -37,10 +37,13 @@ ADHD-Female-Brain-Detection/
 │   ├── 02_preprocessing.ipynb# feature engineering / cleaning
 │   ├── 03_modeling.ipynb     # baseline + better models
 │   ├── 04_evaluation.ipynb   # final models evaluation
+│   ├── submission_LR.csv     # submission for logistic regression
+│   ├── submission_nn1.csv    # submission for neural network 1
+│   └── submission_nn2.csv    # submission for neural network 2
 │
 ├── reports/
 │   ├── data_description.md   # dataset + feature explanation
-│   ├── model_notes.md        # decisions made about models
+│   └── model_notes.md        # decisions made about models
 │
 ├── README.md
 └── requirements.txt
